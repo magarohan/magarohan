@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a computer science student.<br>I'm learning web development with MERN stack and mobile development with FLutter.
+I'm an aspiring Flutter develper. Ready to contribue to real world projects.
 
 
 ## 🌐 Socials:
