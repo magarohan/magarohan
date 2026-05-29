@@ -1,8 +1,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Rohan+Magar;Flutter+Developer+💙;Building+Modern+Mobile+Experiences;Open+Source+Contributor+🚀;Always+Learning+New+Things+✨" alt="Typing SVG" />
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=220&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 </div>
